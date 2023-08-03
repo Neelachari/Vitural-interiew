@@ -36,7 +36,7 @@ For support, email <br/>
 
 For Go to the website click the link:-https://legendary-monstera-f8fb81.netlify.app/
 
-GitHub Link:https://github.com/imSAJJAKALI/purring-root-8
+GitHub Link:https:(https://github.com/sampatil98/SynthAI-vitural-interiew)
 ## Screenshots
 
 ![image](https://github.com/Neelachari/Vitural-interiew/assets/112808279/6e491507-f015-4808-8179-91b5af3f4bea)
