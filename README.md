@@ -54,9 +54,11 @@ GitHub Link:https:(https://github.com/sampatil98/SynthAI-vitural-interiew)
 Contributions are always welcome!
 ## Authors
  [Neelachari](https://github.com/Neelachari) <br/>
+ [Sam patil](https://github.com/sampatil98) <br/>
 
 ## Linkedin
  [Neelachari](https://www.linkedin.com/in/neelesh-n-h-2704a7196/) <br/>
+
 
  
 
