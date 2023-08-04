@@ -46,8 +46,17 @@ GitHub Link:https:(https://github.com/sampatil98/SynthAI-vitural-interiew)
 
 ![image](https://github.com/Neelachari/Vitural-interiew/assets/112808279/08f331eb-b76d-4666-bae4-348f8390a9eb)
 
-![image](https://github.com/Neelachari/Vitural-interiew/assets/112808279/04bc32b3-67c9-4463-b283-cc57bca33c14)
+![image](https://github.com/Neelachari/Vitural-interiew/assets/112808279/5226f9f0-7725-40dd-bd23-d7a811c274c8)
 
+![image](https://github.com/Neelachari/Vitural-interiew/assets/112808279/eecf3efe-39a8-4dc6-910d-400fb4f4e72e)
+
+![image](https://github.com/Neelachari/Vitural-interiew/assets/112808279/ddd13875-eb6e-49ef-9454-a4daadf4a0c6)
+
+![image](https://github.com/Neelachari/Vitural-interiew/assets/112808279/c47ad025-63d4-4cdc-8e5a-035714ecc381)
+
+![image](https://github.com/Neelachari/Vitural-interiew/assets/112808279/e093f89a-7c57-42af-9016-8e5394ae75fb)
+
+![image](https://github.com/Neelachari/Vitural-interiew/assets/112808279/48718829-8f31-4564-8e04-a8676ea0f9b5)
 
 ## Contributing
 
