@@ -4,7 +4,7 @@ Experience the future of interviewing with our virtual-interview-app. Access a v
 
 ![image](https://github.com/Neelachari/Vitural-interiew/assets/112808279/2aaf71e8-9c32-4f46-b300-16d4f5b830e8)
 
-[website Url--](https://virtuval-interview-app.netlify.app/)
+[website Url--](https://virtuval-interview-apk.netlify.app/)
 
 ## Tech Stack
 **Client:** Html, Css, React,TypeScript, Tailwindcss, openAi
@@ -37,7 +37,7 @@ For support, email <br/>
 
 For Go to the website click the link:-https://legendary-monstera-f8fb81.netlify.app/
 
-GitHub Link:https:(https://github.com/sampatil98/SynthAI-vitural-interiew)
+GitHub Link:https:(https://github.com/Neelachari/Vitural-interiew)
 ## Screenshots
 
 ![image](https://github.com/Neelachari/Vitural-interiew/assets/112808279/6e491507-f015-4808-8179-91b5af3f4bea)
